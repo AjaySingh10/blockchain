@@ -1,4 +1,4 @@
-"data":[
+{"data":[
   {
     "data": {
       "blockname": "GenBlock",
@@ -24,3 +24,4 @@
     "nonce": 110
   }
 ]
+}
